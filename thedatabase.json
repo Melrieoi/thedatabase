@@ -1,27 +1,24 @@
 [
 {
     "name": "Alex",
-    "status": "Cut",
-    "image": "/uploads/placeholder.png"
+    "status": "Cut"
 },
 {
     "name": "AIOXY",
-    "status": "Uncut",
-    "image": "/uploads/placeholder.png"
+    "status": "Uncut"
 },
 {
     "name": "Eminem (real)",
-    "status": "Uncut",
-    "image": "/uploads/placeholder.png"
+    "status": "Uncut"
 },
 {
     "name": "Melroy",
-    "status": "Uncut",
-    "image": "/uploads/placeholder.png"
+    "status": "Uncut"
+
 },
 {
     "name": "Adam",
     "status": "Cut",
-    "image": "/uploads/adam.png"
+    "image": "adam.png"
 }
 ]
